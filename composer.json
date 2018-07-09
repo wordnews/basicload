@@ -1,13 +1,5 @@
 {
     "name": "basicload/basicload",
-    "description": "Easy to load project",
-    "type": "project",
-    "license": "MIT",
-    "minimum-stability": "stable",
-    "require": {}
-}
-{
-    "name": "basicload/basicload",
     "type": "project",
     "description": "Easy to load project",
     "keywords": ["basicload"],
